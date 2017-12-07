@@ -42,6 +42,7 @@ INSTALLED_APPS = (
     'customers.apps.CustomersConfig',
     'cleaners.apps.CleanersConfig',
     'main.apps.MainConfig',
+    'cities.apps.CitiesConfig'
 )
 
 MIDDLEWARE_CLASSES = (
